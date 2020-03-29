@@ -63,7 +63,7 @@ xiaomaigou_cms采用IntelliJ IDEA开发，至少需要以下环境的IDE：
 ### 下载项目
 
 ```
-git clone https://github.com/xiaomaiyun/xiaomaigou_cms.git
+git clone https://github.com/xiaomaigou/xiaomaigou_cms.git
 ```
 
 ### 修改配置
